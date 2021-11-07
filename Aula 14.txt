@@ -1,0 +1,4 @@
+Tema: Gerenciar os processos de SCRUM;
+Plano de ação:
+-Aprender orientação ao objeto;
+-Fluxograma.
